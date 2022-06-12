@@ -1,8 +1,6 @@
 {
-  "name": "qbittorrent-to-rclone-heroku",
-  "description": "qbittorrent-to-rclone-heroku",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/New_qBittorrent_Logo.svg",
-  "keywords": ["qbittorrent-nox", "qbittorrent", "heroku", "web", "herokuweb", "safe", "password", "password", "no-password", "oneclickdeploy", "deploy-to-heroku", "docker"],
+  "name": "qfcku",
+  "description": "qbeig",
   "env": {
       "RCLONE_CONFIG_IN_RAW_URL": {
       "description": "Paste rclone config in RAW url (use githubgist secret)",
